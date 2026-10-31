@@ -13,5 +13,7 @@ Estudiante avanzado de **Ingeniería en Sistemas**, con un fuerte perfil analít
 *   📊 Organizando proyectos de análisis estadístico (modelos de regresión lineal y correlación de datos).
 
 ### 📫 Cómo contactarme
-*   [LinkedIn](https://www.linkedin.com/in/juan-cumbeto/)
+*   ✉️ **Email:** [juancumbeto12@gmail.com](mailto:juancumbeto12@gmail.com)
+*   📱 **Teléfono:** +54 9 3442 509085
+*   💼 **LinkedIn:** [linkedin.com/in/juan-cumbeto](https://www.linkedin.com/in/juan-cumbeto/)
 *   📍 Concepción del Uruguay, Entre Ríos, Argentina

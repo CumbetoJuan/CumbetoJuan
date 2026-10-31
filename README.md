@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Diego 👋
 
-<!--
-**CumbetoJuan/CumbetoJuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante avanzado de **Ingeniería en Sistemas**, con un fuerte perfil analítico y Bachiller en Economía y Administración. Busco transformar información compleja en herramientas claras para la toma de decisiones.
 
-Here are some ideas to get you started:
+### 🛠️ Mi Stack Tecnológico
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Análisis y Datos:** SQL | MongoDB | Excel & Google Sheets | Estadística
+*   **Desarrollo Full Stack:** React | Node.js | Express | JavaScript | HTML/CSS
+*   **Herramientas:** Git & GitHub | Postman 
+
+### 🚀 Qué estoy haciendo ahora
+*   💻 Construyendo un E-commerce Full Stack (MERN) orientado a la persistencia de datos y operaciones CRUD.
+*   📊 Organizando proyectos de análisis estadístico (modelos de regresión lineal y correlación de datos).
+
+### 📫 Cómo contactarme
+*   [LinkedIn](https://www.linkedin.com/in/juan-cumbeto/)
+*   📍 Concepción del Uruguay, Entre Ríos, Argentina
